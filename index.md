@@ -1,37 +1,8 @@
-# Megan Thompson-Munson
+## About
 
-Testing 
+Megan is a first-year PhD student in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. She holds a master's degree in Geology from the University of Wyoming and dual bachelor's degrees in Geology and Environmental Science from the University of Massachusetts Amherst. Megan studies firn processes on the Antarctic and Greenland Ice Sheets and is interested in better understanding the interactions between the atmosphere and the surface of ice sheets.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MeganTM/MeganTM.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Education
+- PhD in Atmospheric and Oceanic Sciences, University of Colorado Boulder, in progress
+- MS in Geology, University of Wyoming, 2020
+- BS in Geology, BS in Environmental Science, University of Massachusetts Amherst, 2017
