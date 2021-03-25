@@ -6,12 +6,15 @@ Click [here](./CV_24Mar2021.pdf) for Megan's CV (updated 24 March 2021).
 
 ## Education
 **PhD in Atmospheric and Oceanic Sciences**, University of Colorado Boulder, in progress
+
 Advisor: Dr. Jan Lenaerts
 
 **MS in Geology**, University of Wyoming, 2020
+
 Advisor: Dr. Neil Humphrey
 
 **BS in Geology, BS in Environmental Science**, University of Massachusetts Amherst, 2017
+
 Advisor: Dr. Isla Castañeda
 
 ## News
