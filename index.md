@@ -29,4 +29,4 @@ Megan was recently interviewed about icebergs for the article, "How Does an Iceb
 Megan was interviewed about icebergs on ABC Radio Melbourne's _Breakfast with Sammy J_.
 
 #### 18 Feb 2021 ####
-Check out Megan's tweet about how icebergs float [here](https://twitter.com/GlacialMeg/status/1362557149147058178) and be sure to try out Josh Tauberer's [Iceberge website](https://joshdata.me/iceberger.html) to draw an iceberg and see how it floats.
+Check out Megan's tweet about how icebergs float [here](https://twitter.com/GlacialMeg/status/1362557149147058178) and be sure to try out Josh Tauberer's [Iceberger website](https://joshdata.me/iceberger.html) to draw an iceberg and see how it floats.
