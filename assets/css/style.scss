@@ -11,15 +11,10 @@ body {
   font-weight:400;
 }
 
-// h1, h2, h3 {
-//   color:#333;
-//   margin:0 0 12px;
-// }
-
-// h4, h5, h6 {
-//   color:#555;
-//   margin:0 0 0;
-// }
+h1 {
+  color:#333;
+  margin:0 0 12px;
+}
 
 h1, h2, h3 {
   color:#eb6424;
@@ -29,4 +24,14 @@ h1, h2, h3 {
 h4, h5, h6 {
   color:#333;
   margin:0 0 0;
+}
+
+a {
+  color:#fa9500;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  color:#eb6424;
+  font-weight: bold;
 }
