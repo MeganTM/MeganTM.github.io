@@ -15,8 +15,8 @@ Advisor: Dr. Neil Humphrey
 Advisor: Dr. Isla Castañeda
 
 ## News
-**12 March 2021.** Megan was recently interviewed about icebergs for the article, "How Does an Iceberg Really Float?", from GlacierHub. Read the article [here](https://blogs.ei.columbia.edu/2021/03/12/iceberg-really-float/).
+**12 Mar 2021.** Megan was recently interviewed about icebergs for the article, "How Does an Iceberg Really Float?", from GlacierHub. Read the article [here](https://blogs.ei.columbia.edu/2021/03/12/iceberg-really-float/).
 
-**2 March 2021.** Megan was interviewed about icebergs on ABC Radio Melbourne's _Breakfast with Sammy J_.
+**2 Mar 2021.** Megan was interviewed about icebergs on ABC Radio Melbourne's _Breakfast with Sammy J_.
 
-**18 February 2021.** Check out Megan's tweet about how icebergs float [here](https://twitter.com/GlacialMeg/status/1362557149147058178) and be sure to try out Josh Tauberer's [Iceberge website](https://joshdata.me/iceberger.html) to draw an iceberg and see how it floats.
+**18 Feb 2021.** Check out Megan's tweet about how icebergs float [here](https://twitter.com/GlacialMeg/status/1362557149147058178) and be sure to try out Josh Tauberer's [Iceberge website](https://joshdata.me/iceberger.html) to draw an iceberg and see how it floats.
