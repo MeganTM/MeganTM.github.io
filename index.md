@@ -11,11 +11,8 @@ University of Colorado Boulder, in progress
 <br>
 Advisor: Dr. Jan Lenaerts
 
-PhD in Atmospheric and Oceanic Sciences, University of Colorado Boulder, in progress
-<br>
-Advisor: Dr. Jan Lenaerts
-
-MS in Geology, University of Wyoming, 2020
+#### MS in Geology
+University of Wyoming, 2020
 <br>
 Advisor: Dr. Neil Humphrey
 
