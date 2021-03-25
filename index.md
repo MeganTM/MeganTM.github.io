@@ -23,7 +23,7 @@ Advisor: Dr. Isla Castañeda
 
 ## News
 #### 12 Mar 2021 ####
-Megan was recently interviewed about icebergs for the article, "How Does an Iceberg Really Float?", from GlacierHub. Read the article [here](https://blogs.ei.columbia.edu/2021/03/12/iceberg-really-float/).
+Megan was recently interviewed about icebergs for the article, "How Does an Iceberg Really Float?", on _GlacierHub_. Read the article [here](https://blogs.ei.columbia.edu/2021/03/12/iceberg-really-float/).
 
 #### 02 Mar 2021 ####
 Megan was interviewed about icebergs on ABC Radio Melbourne's _Breakfast with Sammy J_.
