@@ -16,7 +16,7 @@ University of Wyoming, 2020
 <br>
 Advisor: Dr. Neil Humphrey
 
-#### BS in Geology, BS in Environmental Science
+#### BS in Geology; BS in Environmental Science
 University of Massachusetts Amherst, 2017
 <br>
 Advisor: Dr. Isla Castañeda
