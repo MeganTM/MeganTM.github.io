@@ -2,7 +2,7 @@
 
 Megan is a second-year PhD student in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. She holds a master's degree in Geology from the University of Wyoming and dual bachelor's degrees in Geology and Environmental Science from the University of Massachusetts Amherst. Megan studies firn processes on the Antarctic and Greenland Ice Sheets and is interested in better understanding the interactions between the atmosphere and the surface of ice sheets.
 
-[Curriculum vitae](./CV_MTM.pdf) (updated 09 June 2021)
+[Curriculum vitae](./CV_MTM.pdf) (updated 02 Dec 2021)
 
 ## Education
 
@@ -22,6 +22,9 @@ University of Massachusetts Amherst, 2017
 Advisor: Dr. Isla Castañeda
 
 ## News
+#### 03 Dec 2021 ####
+The University of Colorado will host its annual Earth System and Space Science (ESSS) Poster Conference. Megan helped organize the conference, and she will be presenting her research there as well. Check out her poster [here](./Thompson-Munson_ESSS-poster.pdf).
+
 #### 22 Sep 2021 ####
 Megan has been awarded an EarthCube Learning Communities Fellowship to develop a tool for examining the SUMup dataset that she manages.
 
