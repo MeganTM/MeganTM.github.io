@@ -22,6 +22,9 @@ University of Massachusetts Amherst, 2017
 Advisor: Dr. Isla Castañeda
 
 ## News
+#### 22 Sep 2021 ####
+Megan has been awarded an EarthCube Learning Communities Fellowship to develop a tool for examining the SUMup dataset that she manages.
+
 #### 29 Mar 2021 ####
 Check out [this page](http://www.antarcticglaciers.org/glacier-processes/glacier-types/icebergs/) about icebergs that Megan wrote for AntarcticGlaciers.org.
 
