@@ -25,8 +25,6 @@ Advisor: Dr. Isla Castañeda
 #### 03 Dec 2021 ####
 The University of Colorado hosted its annual Earth System and Space Science (ESSS) Poster Conference. Megan helped organize the conference, and she presented her research there as well. Check out her poster [here](./Thompson-Munson_ESSS-poster.pdf).
 
-![ESSS Conference](assets/ESSS-conference.jpg)
-
 #### 22 Sep 2021 ####
 Megan has been awarded an EarthCube Learning Communities Fellowship to develop a tool for examining the SUMup dataset that she manages.
 
