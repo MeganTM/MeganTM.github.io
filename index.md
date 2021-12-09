@@ -2,7 +2,7 @@
 
 Megan is a second-year PhD student in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. She holds a master's degree in Geology from the University of Wyoming and dual bachelor's degrees in Geology and Environmental Science from the University of Massachusetts Amherst. Megan studies firn processes on the Antarctic and Greenland Ice Sheets and is interested in better understanding the interactions between the atmosphere and the surface of ice sheets.
 
-[Curriculum vitae](./CV_MTM.pdf) (updated 02 Dec 2021)
+[Curriculum vitae](./CV_MTM.pdf) (updated 09 Dec 2021)
 
 ## Education
 
