@@ -22,8 +22,11 @@ University of Massachusetts Amherst, 2017
 Advisor: Dr. Isla Castañeda
 
 ## News
-#### 03 Dec 2021 ####
-The University of Colorado hosted its annual Earth System and Space Science (ESSS) Poster Conference. Megan helped organize the conference, and she presented her research there as well. Check out her poster [here](./Thompson-Munson_ESSS-poster.pdf).
+#### 09 Dec 2021 ####
+The University of Colorado hosted its annual Earth System and Space Science (ESSS) Poster Conference on 03 Dec 2021. Megan presented her research there and won an award for Best Graduate Student Poster. Check out her poster [here](./Thompson-Munson_ESSS-poster.pdf).
+
+#### 09 Dec 2021 ###
+Megan receieved a grant from SCAR's AntClimNow program to continue maintaining and updating the [SUMup database](https://arcticdata.io/catalog/view/doi%3A10.18739%2FA2W08WH6N) that she recently began managing. 
 
 #### 22 Sep 2021 ####
 Megan has been awarded an EarthCube Learning Communities Fellowship to develop a tool for examining the SUMup dataset that she manages.
