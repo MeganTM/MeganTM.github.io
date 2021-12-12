@@ -22,6 +22,10 @@ University of Massachusetts Amherst, 2017
 Advisor: Dr. Isla Castañeda
 
 ## News
+
+#### 15 Dec 2021 ####
+Megan will present her poster in the AGU 2021 Fall Meeting. Find a copy of her poster [here](./AGU-poster_2021_v3.pdf).
+
 #### 09 Dec 2021 ####
 The University of Colorado hosted its annual Earth System and Space Science (ESSS) Poster Conference on 03 Dec 2021. Megan presented her research there and won an award for Best Graduate Student Poster. Check out her poster [here](./Thompson-Munson_ESSS-poster.pdf).
 
