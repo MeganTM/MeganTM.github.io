@@ -1,6 +1,8 @@
 ## About
 
-Megan is a second-year PhD student in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. She holds a master's degree in Geology from the University of Wyoming and dual bachelor's degrees in Geology and Environmental Science from the University of Massachusetts Amherst. Megan studies firn processes on the Antarctic and Greenland Ice Sheets and is interested in better understanding the interactions between the atmosphere and the surface of ice sheets.
+Megan is a second-year PhD student in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. She has a master's degree in Geology from the University of Wyoming and dual bachelor's degrees in Geology and Environmental Science from the University of Massachusetts Amherst.
+
+Megan studies firn processes on the Antarctic and Greenland Ice Sheets and is interested in better understanding the interactions between the atmosphere and the surface of ice sheets. She uses a firn model, SNOWPACK, to simulate firn processes across ice sheets and compares the output to hundreds of firn density measurements from the SUMup database.
 
 [Curriculum vitae](./CV_MTM.pdf) (updated 28 Jan 2022)
 
