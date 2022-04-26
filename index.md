@@ -1,6 +1,6 @@
 ## About
 
-Megan is a second-year PhD student in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. She has a master's degree in Geology from the University of Wyoming and dual bachelor's degrees in Geology and Environmental Science from the University of Massachusetts Amherst.
+Megan is a second-year PhD candidate in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. She has a master's degree in Geology from the University of Wyoming and dual bachelor's degrees in Geology and Environmental Science from the University of Massachusetts Amherst.
 
 Megan studies firn processes on the Antarctic and Greenland Ice Sheets and is interested in better understanding the interactions between the atmosphere and the surface of ice sheets. She uses a firn model, SNOWPACK, to simulate firn processes across ice sheets and compares the output to hundreds of firn density measurements from the SUMup database.
 
@@ -32,6 +32,9 @@ This database contains millions of measurements of surface mass balance componen
 This Python package is a tool for downloading, processing, and plotting data from the SUMup database. Megan developed this tool with support from EarthCube. 
 
 ## News
+
+#### 25 Apr 2022 ####
+After a busy semester, Megan successfully passed her Comprehensive Exam II and is officially a PhD candidate.
 
 #### 28 Jan 2022 ####
 Megan will lead a portion of the EarthCube Learning Communities Fellowship tutorial where she will demonstrate [SUMMEDup](https://github.com/MeganTM/SUMMEDup), which is a tool she developed to use with the SUMup dataset. Check out the slides [here](./EarthCube_tutorial.pdf) to learn more about tutorial and SUMMEDup.
