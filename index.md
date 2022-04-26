@@ -37,7 +37,7 @@ This Python package is a tool for downloading, processing, and plotting data fro
 After a busy semester, Megan successfully passed her Comprehensive Exam II and is officially a PhD candidate.
 
 #### 28 Jan 2022 ####
-Megan will lead a portion of the EarthCube Learning Communities Fellowship tutorial where she will demonstrate [SUMMEDup](https://github.com/MeganTM/SUMMEDup), which is a tool she developed to use with the SUMup dataset. Check out the slides [here](./EarthCube_tutorial.pdf) to learn more about tutorial and SUMMEDup.
+Megan led a portion of the EarthCube Learning Communities Fellowship tutorial where she demonstrated [SUMMEDup](https://github.com/MeganTM/SUMMEDup), which is a tool she developed to use with the SUMup dataset. Check out the slides [here](./EarthCube_tutorial.pdf), or watch the recorded tutorial [here](https://youtu.be/Mw8wfqEACKw?t=1293).
 
 #### 15 Dec 2021 ####
 Megan presented her poster in the AGU 2021 Fall Meeting. Find a copy of her poster [here](./AGU-poster_2021_v3.pdf).
