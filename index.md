@@ -5,7 +5,7 @@ Megan is a second-year PhD candidate in Atmospheric and Oceanic Sciences at the 
 Megan studies firn processes on the Antarctic and Greenland Ice Sheets and is interested in better understanding the interactions between the atmosphere and the surface of ice sheets. She uses a firn model, SNOWPACK, to simulate firn processes across ice sheets and compares the output to hundreds of firn density measurements from the SUMup database.
 
 [Full curriculum vitae](./CV_MTM.pdf) (updated 04 May 2022)
-
+<br>
 [2-page curriculum vitae](./CV_MTM_2pg.pdf) (updated 04 May 2022)
 
 ## Education
