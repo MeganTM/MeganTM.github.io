@@ -1,19 +1,19 @@
 ## About
 
-Megan is a second-year PhD candidate in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. She has a master's degree in Geology from the University of Wyoming and dual bachelor's degrees in Geology and Environmental Science from the University of Massachusetts Amherst.
+Megan is a third-year PhD candidate in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. She has a master's degree in Geology from the University of Wyoming and dual bachelor's degrees in Geology and Environmental Science from the University of Massachusetts Amherst.
 
 Megan studies firn processes on the Antarctic and Greenland Ice Sheets and is interested in better understanding the interactions between the atmosphere and the surface of ice sheets. She uses a firn model, SNOWPACK, to simulate firn processes across ice sheets and compares the output to hundreds of firn density measurements from the SUMup database.
 
-[Full curriculum vitae](./Thompson_Munson_CV_full.pdf) (updated 08 Jun 2022)
+[Full curriculum vitae](./Thompson_Munson_CV_full.pdf) (updated 12 Aug 2022)
 <br>
-[2-page curriculum vitae](./Thompson_Munson_CV_2page.pdf) (updated 08 Jun 2022)
+[2-page curriculum vitae](./Thompson_Munson_CV_2page.pdf) (updated 12 Aug 2022)
 
 ## Education
 
 #### PhD in Atmospheric and Oceanic Sciences
 University of Colorado Boulder, in progress
 <br>
-Advisor: Dr. Jan Lenaerts
+Advisor: Dr. Jennifer Kay
 
 #### MS in Geology
 University of Wyoming, 2020
@@ -27,13 +27,16 @@ Advisor: Dr. Isla Castañeda
 
 ## Tools and Resources
 
-#### [SUMup](https://arcticdata.io/catalog/view/doi%3A10.18739%2FA2W950P44) ####
+#### [SUMup](https://arcticdata.io/catalog/view/doi:10.18739/A24Q7QR58) ####
 This database contains millions of measurements of surface mass balance components from ice sheets and sea ice. The database contains four subdatasets: (1) snow and firn density on ice sheets, (2) accumulation rates on ice sheets, (3) 10-m borehold temperatures, and (4) snow depth on sea ice. Megan is leading an effort to release an updated and expanded version of SUMup in 2022.
 
-#### [SUMMEDup](https://github.com/MeganTM/SUMMEDup) ####
-This Python package is a tool for downloading, processing, and plotting data from the SUMup database. Megan developed this tool with support from EarthCube. 
+#### [SUMMEDup](https://github.com/MeganTM/SUMMEDup) and [SUMMEDup2022](https://github.com/MeganTM/SUMMEDup2022) ####
+This Python package is a tool for processing and plotting data from the SUMup database. Megan developed this tool with support from EarthCube. The latest 2022 version is compatible with the latest SUMup release (linked above).
 
 ## News
+
+#### 12 Aug 2022 ####
+The latest release of SUMup is now available on the Arctic Data Center. Click [here](https://arcticdata.io/catalog/view/doi:10.18739/A24Q7QR58) to view the database, check out the Python code for plotting [here](https://github.com/MeganTM/SUMMEDup2022), and read through the infographics in [this Twitter thread](https://twitter.com/GlacialMeg/status/1557757108673622016?s=20&t=3wjLluf680_khNSCVKj1Ew) to learn all about what's new with SUMup
 
 #### 25 Apr 2022 ####
 After a busy semester, Megan successfully passed her Comprehensive Exam II and is officially a PhD candidate.
