@@ -4,9 +4,7 @@ Megan is a third-year PhD candidate in Atmospheric and Oceanic Sciences at the U
 
 Megan studies firn processes on the Antarctic and Greenland Ice Sheets and is interested in better understanding the interactions between the atmosphere and the surface of ice sheets. She uses a firn model, SNOWPACK, to simulate firn processes across ice sheets and compares the output to hundreds of firn density measurements from the SUMup database.
 
-[Full curriculum vitae](./Thompson_Munson_CV_full.pdf) (updated 12 Aug 2022)
-<br>
-[2-page curriculum vitae](./Thompson_Munson_CV_2page.pdf) (updated 12 Aug 2022)
+[Curriculum vitae](./Thompson_Munson_CV_full.pdf) (updated 6 Dec 2022)
 
 ## Education
 
@@ -24,6 +22,17 @@ Advisor: Dr. Neil Humphrey
 University of Massachusetts Amherst, 2017
 <br>
 Advisor: Dr. Isla Castañeda
+
+## Publications
+
+*Thompson-Munson, M.*, Wever, N., Stevens, C.M., Lenaerts, J.T.M., and Medley, B. 2022. Observed and modeled Greenland firn properties (1980-2020). The Cryosphere Discussions.
+
+Maclennan, M.L., Lenaerts, J.T.M., Shields, C.A., Hoffman, A.O., Wever, N., Thompson-Munson, M., Winters, A.C., Pettit, E.C., Scambos, T.A., Wille, J.D. 2022. Climatology and Surface Impacts of Atmospheric Rivers on West Antarctica. The Cryosphere Discussions.
+
+Lam, A., Bauer, J.E., Fraass, S., Sheffield, S., Limbeck, M.R., Borden, R.M., Thompson-Munson, M., Fraass, A.J., Hills, J.M., Muskelly, C.E., Hartshorn, K.R., and Bryant, R. (2019). Time Scavengers: An Educational Website to Communicate Climate Change and Evolutionary Theory to the Public through Blogs, Web Pages, and Social Media Platforms. The Journal of STEM Outreach, 2(1).
+
+
+
 
 ## Tools and Resources
 
