@@ -29,9 +29,9 @@ Advisor: Dr. Isla Castañeda
 
 <b>Thompson-Munson, M.</b>, Wever, N., Stevens, C.M., Lenaerts, J.T.M., and Medley, B. 2022. Observed and modeled Greenland firn properties (1980-2020). The Cryosphere Discussions. [PDF](https://tc.copernicus.org/preprints/tc-2022-223/tc-2022-223.pdf)
 
-Maclennan, M.L., Lenaerts, J.T.M., Shields, C.A., Hoffman, A.O., Wever, N., **Thompson-Munson, M.**, Winters, A.C., Pettit, E.C., Scambos, T.A., Wille, J.D. 2022. Climatology and Surface Impacts of Atmospheric Rivers on West Antarctica. The Cryosphere Discussions. [PDF](https://tc.copernicus.org/preprints/tc-2022-101/tc-2022-101.pdf)
+Maclennan, M.L., Lenaerts, J.T.M., Shields, C.A., Hoffman, A.O., Wever, N., <b>Thompson-Munson, M.</b>, Winters, A.C., Pettit, E.C., Scambos, T.A., Wille, J.D. 2022. Climatology and Surface Impacts of Atmospheric Rivers on West Antarctica. The Cryosphere Discussions. [PDF](https://tc.copernicus.org/preprints/tc-2022-101/tc-2022-101.pdf)
 
-Lam, A., Bauer, J.E., Fraass, S., Sheffield, S., Limbeck, M.R., Borden, R.M., **Thompson-Munson, M.**, Fraass, A.J., Hills, J.M., Muskelly, C.E., Hartshorn, K.R., and Bryant, R. (2019). Time Scavengers: An Educational Website to Communicate Climate Change and Evolutionary Theory to the Public through Blogs, Web Pages, and Social Media Platforms. The Journal of STEM Outreach, 2(1). [PDF](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1000&context=geo_grad_pubs)
+Lam, A., Bauer, J.E., Fraass, S., Sheffield, S., Limbeck, M.R., Borden, R.M., <b>Thompson-Munson, M.</b>, Fraass, A.J., Hills, J.M., Muskelly, C.E., Hartshorn, K.R., and Bryant, R. (2019). Time Scavengers: An Educational Website to Communicate Climate Change and Evolutionary Theory to the Public through Blogs, Web Pages, and Social Media Platforms. The Journal of STEM Outreach, 2(1). [PDF](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1000&context=geo_grad_pubs)
 
 
 ## Tools and Resources
