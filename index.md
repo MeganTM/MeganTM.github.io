@@ -39,8 +39,8 @@ Lam, A., Bauer, J.E., Fraass, S., Sheffield, S., Limbeck, M.R., Borden, R.M., <b
 #### SUMup ####
 This [database](https://arcticdata.io/catalog/view/doi:10.18739/A24Q7QR58) contains millions of measurements of surface mass balance components from ice sheets and sea ice. The database contains four subdatasets: (1) snow and firn density on ice sheets, (2) accumulation rates on ice sheets, (3) 10-m borehold temperatures, and (4) snow depth on sea ice.
 
-#### [SUMMEDup](https://github.com/MeganTM/SUMMEDup) and [SUMMEDup2022](https://github.com/MeganTM/SUMMEDup2022) ####
-This Python package is a tool for processing and plotting data from the SUMup database. Megan developed this tool with support from EarthCube. The latest 2022 version is compatible with the [latest SUMup release](https://arcticdata.io/catalog/view/doi:10.18739/A24Q7QR58).
+#### SUMMEDup2022 ####
+This Python package is a tool for processing and plotting data from the SUMup database. Megan developed this tool with support from EarthCube. The [latest version](https://github.com/MeganTM/SUMMEDup2022) is compatible with the [latest SUMup release](https://arcticdata.io/catalog/view/doi:10.18739/A24Q7QR58).
 
 #### SUMMEDup Tuturial ####
 Megan led a portion of the EarthCube Learning Communities Fellowship tutorial where she demonstrated [SUMMEDup](https://github.com/MeganTM/SUMMEDup), which is a tool she developed to use with the SUMup dataset. Check out the slides [here](./EarthCube_tutorial.pdf), or watch the recorded tutorial [here](https://youtu.be/Mw8wfqEACKw?t=1293).
