@@ -1,4 +1,4 @@
-# About me
+## About
 
 Megan is a third-year PhD candidate in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. She has a master's degree in Geology from the University of Wyoming and dual bachelor's degrees in Geology and Environmental Science from the University of Massachusetts Amherst.
 
