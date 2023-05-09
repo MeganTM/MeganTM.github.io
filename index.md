@@ -12,7 +12,7 @@ Megan studies firn processes on the Antarctic and Greenland Ice Sheets and is in
 #### PhD in Atmospheric and Oceanic Sciences
 University of Colorado Boulder, in progress
 <br>
-Advisor: Dr. Jennifer Kay
+Advisors: Dr. Jennifer Kay & Dr. Bradley Markle
 
 #### MS in Geology
 University of Wyoming, 2020
