@@ -27,7 +27,7 @@ Advisor: Dr. Isla Castañeda
 
 ## Publications
 
-<b>Thompson-Munson, M.</b>, Wever, N., Stevens, C.M., Lenaerts, J.T.M., and Medley, B. 2022. An evaluation of a physics-based firn model and a semi-empirical firn model across the Greenland Ice Sheet (1980-2020). The Cryosphere. [PDF](https://tc.copernicus.org/articles/17/2185/2023/tc-17-2185-2023.pdf)
+<b>Thompson-Munson, M.</b>, Wever, N., Stevens, C.M., Lenaerts, J.T.M., and Medley, B. 2023. An evaluation of a physics-based firn model and a semi-empirical firn model across the Greenland Ice Sheet (1980-2020). The Cryosphere. [PDF](https://tc.copernicus.org/articles/17/2185/2023/tc-17-2185-2023.pdf)
 
 Maclennan, M.L., Lenaerts, J.T.M., Shields, C.A., Hoffman, A.O., Wever, N., <b>Thompson-Munson, M.</b>, Winters, A.C., Pettit, E.C., Scambos, T.A., Wille, J.D. 2023. Climatology and Surface Impacts of Atmospheric Rivers on West Antarctica. The Cryosphere. [PDF](https://tc.copernicus.org/articles/17/865/2023/tc-17-865-2023.pdf)
 
