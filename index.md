@@ -1,8 +1,6 @@
 ## About Me
 
-I am a fourth-year PhD candidate in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. I have a master's degree in Geology from the University of Wyoming and dual bachelor's degrees in Geology and Environmental Science from the University of Massachusetts Amherst.
-
-I study firn processes on the Antarctic and Greenland Ice Sheets and am interested in better understanding the interactions between the atmosphere and the surface of ice sheets. My main tool for studying these interactions is the firn model SNOWPACK, which I use to simulate firn processes across ice sheets.
+I am a fourth-year PhD candidate in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. I study firn processes on the Antarctic and Greenland Ice Sheets and am interested in better understanding the interactions between the atmosphere and the surface of ice sheets. My main tool for studying these interactions is the firn model SNOWPACK, which I use to simulate firn processes across ice sheets.
 
 [Curriculum vitae](./Thompson_Munson_CV_full.pdf) (updated 13 November 2023)
 
