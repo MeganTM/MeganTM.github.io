@@ -29,7 +29,7 @@ Advisor: Dr. Isla Castañeda
 
 <u><b>Thompson-Munson, M.</b></u>, Wever, N., Stevens, C.M., Lenaerts, J.T.M., and Medley, B. (2023). An evaluation of a physics-based firn model and a semi-empirical firn model across the Greenland Ice Sheet (1980-2020). The Cryosphere. [PDF](https://tc.copernicus.org/articles/17/2185/2023/tc-17-2185-2023.pdf)
 
-Maclennan, M.L., Lenaerts, J.T.M., Shields, C.A., Hoffman, A.O., Wever, N., <b>Thompson-Munson, M.</b>, Winters, A.C., Pettit, E.C., Scambos, T.A., Wille, J.D. (2023). Climatology and Surface Impacts of Atmospheric Rivers on West Antarctica. The Cryosphere. [PDF](https://tc.copernicus.org/articles/17/865/2023/tc-17-865-2023.pdf)
+Maclennan, M.L., Lenaerts, J.T.M., Shields, C.A., Hoffman, A.O., Wever, N., <u>Thompson-Munson, M.</u>, Winters, A.C., Pettit, E.C., Scambos, T.A., Wille, J.D. (2023). Climatology and Surface Impacts of Atmospheric Rivers on West Antarctica. The Cryosphere. [PDF](https://tc.copernicus.org/articles/17/865/2023/tc-17-865-2023.pdf)
 
 Lam, A., Bauer, J.E., Fraass, S., Sheffield, S., Limbeck, M.R., Borden, R.M., <b>Thompson-Munson, M.</b>, Fraass, A.J., Hills, J.M., Muskelly, C.E., Hartshorn, K.R., and Bryant, R. (2019). Time Scavengers: An Educational Website to Communicate Climate Change and Evolutionary Theory to the Public through Blogs, Web Pages, and Social Media Platforms. The Journal of STEM Outreach, 2(1). [PDF](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1000&context=geo_grad_pubs)
 
