@@ -2,7 +2,7 @@
 
 I am a fourth-year PhD candidate in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. I study firn processes on the Antarctic and Greenland Ice Sheets and am interested in better understanding the interactions between the atmosphere and the surface of ice sheets. My main tool for studying these interactions is the firn model SNOWPACK, which I use to simulate firn processes across ice sheets.
 
-[Curriculum vitae](./Thompson_Munson_CV_full.pdf) (updated 13 November 2023)
+[Curriculum vitae](./Thompson_Munson_Megan_CV.pdf) (updated 13 November 2023)
 
 
 ## Education
