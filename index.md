@@ -2,7 +2,7 @@
 
 I am a fourth-year PhD candidate in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. I study firn processes on the Antarctic and Greenland Ice Sheets and am interested in better understanding the interactions between the atmosphere and the surface of ice sheets. My main tool for studying these interactions is the firn model SNOWPACK, which I use to simulate firn processes across ice sheets.
 
-[Curriculum vitae](./Thompson_Munson_Megan_CV.pdf) (updated 16 January 2024)
+[Curriculum vitae](./Thompson_Munson_Megan_CV.pdf) (updated 26 January 2024)
 
 
 ## Education
@@ -25,11 +25,13 @@ Advisor: Dr. Isla Castañeda
 
 ## Publications
 
-<u><b>Thompson-Munson, M.</b></u>, Wever, N., Stevens, C.M., Lenaerts, J.T.M., and Medley, B. (2023). An evaluation of a physics-based firn model and a semi-empirical firn model across the Greenland Ice Sheet (1980-2020). The Cryosphere. [PDF](https://tc.copernicus.org/articles/17/2185/2023/tc-17-2185-2023.pdf)
+The Firn Symposium Team (35 authors including <u><b>Thompson-Munson, M.</b></u>). (2024). Firn on Ice Sheets. _Nature Reviews Earth & Environment_. [link](https://doi.org/10.1038/s43017-023-00507-9)
 
-Maclennan, M.L., Lenaerts, J.T.M., Shields, C.A., Hoffman, A.O., Wever, N., <u><b>Thompson-Munson, M.</b></u>, Winters, A.C., Pettit, E.C., Scambos, T.A., Wille, J.D. (2023). Climatology and Surface Impacts of Atmospheric Rivers on West Antarctica. The Cryosphere. [PDF](https://tc.copernicus.org/articles/17/865/2023/tc-17-865-2023.pdf)
+<u><b>Thompson-Munson, M.</b></u>, Wever, N., Stevens, C.M., Lenaerts, J.T.M., and Medley, B. (2023). An evaluation of a physics-based firn model and a semi-empirical firn model across the Greenland Ice Sheet (1980-2020). _The Cryosphere._ [PDF](https://tc.copernicus.org/articles/17/2185/2023/tc-17-2185-2023.pdf)
 
-Lam, A., Bauer, J.E., Fraass, S., Sheffield, S., Limbeck, M.R., Borden, R.M., <u><b>Thompson-Munson, M.</b></u>, Fraass, A.J., Hills, J.M., Muskelly, C.E., Hartshorn, K.R., and Bryant, R. (2019). Time Scavengers: An Educational Website to Communicate Climate Change and Evolutionary Theory to the Public through Blogs, Web Pages, and Social Media Platforms. The Journal of STEM Outreach, 2(1). [PDF](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1000&context=geo_grad_pubs)
+Maclennan, M.L., Lenaerts, J.T.M., Shields, C.A., Hoffman, A.O., Wever, N., <u><b>Thompson-Munson, M.</b></u>, Winters, A.C., Pettit, E.C., Scambos, T.A., Wille, J.D. (2023). Climatology and Surface Impacts of Atmospheric Rivers on West Antarctica. _The Cryosphere._ [PDF](https://tc.copernicus.org/articles/17/865/2023/tc-17-865-2023.pdf)
+
+Lam, A., Bauer, J.E., Fraass, S., Sheffield, S., Limbeck, M.R., Borden, R.M., <u><b>Thompson-Munson, M.</b></u>, Fraass, A.J., Hills, J.M., Muskelly, C.E., Hartshorn, K.R., and Bryant, R. (2019). Time Scavengers: An Educational Website to Communicate Climate Change and Evolutionary Theory to the Public through Blogs, Web Pages, and Social Media Platforms. _The Journal of STEM Outreach,_ 2(1). [PDF](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1000&context=geo_grad_pubs)
 
 
 ## Datasets, Tools, and Resources
