@@ -1,14 +1,14 @@
 ## About Me
 
-I am a fourth-year PhD candidate in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. I study firn processes on the Antarctic and Greenland Ice Sheets and am interested in better understanding the interactions between the atmosphere and the surface of ice sheets. My main tool for studying these interactions is the firn model SNOWPACK, which I use to simulate firn processes across ice sheets.
+I am a recent graduate of the Atmospheric and Oceanic Sciences PhD program at the University of Colorado Boulder. I study firn processes on the Antarctic and Greenland Ice Sheets and am interested in better understanding the interactions between the atmosphere and the surface of ice sheets. I use a combination of observations, remote sensing, and models to draw connections between climate and firn.
 
-[Curriculum vitae](./Thompson_Munson_Megan_CV.pdf) (updated 26 January 2024)
+[Curriculum vitae](./Thompson-Munson_Megan_CV.pdf) (updated 24 July 2024)
 
 
 ## Education
 
 #### PhD in Atmospheric and Oceanic Sciences
-University of Colorado Boulder, in progress
+University of Colorado Boulder, 2024
 <br>
 Advisors: Dr. Jennifer Kay & Dr. Bradley Markle
 
@@ -24,6 +24,8 @@ Advisor: Dr. Isla Castañeda
 
 
 ## Publications
+
+<u><b>Thompson-Munson, M.</b></u>, Kay, J.E., and Markle, B.R. (2024). Greenland's firn responds more to warming than to cooling. _The Cryosphere._ [PDF](https://tc.copernicus.org/articles/18/3333/2024/tc-18-3333-2024.pdf)
 
 The Firn Symposium Team (35 authors including <u><b>Thompson-Munson, M.</b></u>). (2024). Firn on Ice Sheets. _Nature Reviews Earth & Environment_. [link](https://doi.org/10.1038/s43017-023-00507-9)
 
