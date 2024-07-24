@@ -1,6 +1,6 @@
 ## About Me
 
-I am a recent graduate of the Atmospheric and Oceanic Sciences PhD program at the University of Colorado Boulder. I study firn processes on the Antarctic and Greenland Ice Sheets and am interested in better understanding the interactions between the atmosphere and the surface of ice sheets. I use a combination of observations, remote sensing, and models to draw connections between climate and firn.
+I am a recent graduate of the Atmospheric and Oceanic Sciences PhD program at the University of Colorado Boulder. I study firn processes on the Antarctic and Greenland Ice Sheets and am interested in better understanding the interactions between the atmosphere and the surface of ice sheets. To draw connections between the atmosphere and firn, I use a combination of observations, remote sensing, and models.
 
 [Curriculum vitae](./Thompson-Munson_Megan_CV.pdf) (updated 24 July 2024)
 
